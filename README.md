@@ -16,6 +16,10 @@ To perform sequence alignment in order to:
 
 | Tool / Platform | Purpose |
 | ------------------| ---------|
-| [NCBI BLAST] (https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+| [NCBI BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 | Performing sequence alignments|
+| [NCBI GenBank / 
+Protein](https://www.ncbi.nlm.nih.gov/) | Accessing biological sequences |
+| Python + Biopython (optional) | Automating sequence handling and analysis|
+| Git & Github | Version control and project management |
 
