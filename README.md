@@ -72,7 +72,7 @@ Draw conclusions regarding:
 
 **Nivedi K**  
 B.Sc. in Biotechnology  
-[GitHub Profile](https://github.com/yourusername)
+[GitHub Profile](https://github.com/KaS1325)
 
 ---
 
