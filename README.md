@@ -17,3 +17,5 @@ To perform sequence alignment in order to:
 | Tool / Platform | Purpose |
 | ------------------| ---------|
 | [NCBI BLAST] (https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+| Performing sequence alignments|
+
