@@ -17,4 +17,4 @@ Compared the human BRCA1 gene sequence with the mouse BRCA1 gene using BLASTn. B
 ###  Attached Files:
 - Mus musculus BRCA1 mRNA(aligned).fasta – contains aligned sequences in fasta format
 - 4NNSZ4U0013-Alignment.txt - contains aligned sequences in text format
-- alignment_screenshot.jpg – image of BLAST alignment from NCBI
+- U36475.1[1..3279].pdf – a graphics pdf of BLAST alignment from NCBI
