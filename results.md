@@ -15,5 +15,5 @@ Compared the human BRCA1 gene sequence with the mouse BRCA1 gene using BLASTn. B
 - Some *differences (mutations)* were also found, which could be due to species-specific changes.
 
 ###  Attached Files:
-- alignment.fasta – contains aligned sequences
+- Mus musculus BRCA1 mRNA(aligned).fasta – contains aligned sequences in fasta format
 - alignment_screenshot.jpg – image of BLAST alignment from NCBI
