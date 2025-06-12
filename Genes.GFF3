@@ -1,0 +1,7 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region U36475.1 1 3279
+U36475.1	Genbank	gene	1	3279	.	+	.	ID=gene-Brca1;Name=Brca1;end_range=3279,.;gbkey=Gene;gene=Brca1;gene_biotype=protein_coding;partial=true
+U36475.1	Genbank	CDS	27	3279	.	+	0	ID=cds-AAC52323.1;Parent=gene-Brca1;Dbxref=NCBI_GP:AAC52323.1;Name=AAC52323.1;Note=putative tumor suppressor gene%3B C3HC4-type zinc finger protein;end_range=3279,.;gbkey=CDS;gene=Brca1;partial=true;product=breast and ovarian cancer susceptibility protein;protein_id=AAC52323.1
+###
